@@ -1,7 +1,7 @@
 ### Oii! Seja bem-vindo ao meu perfil, chamo-me Ricardo Barrote
 
 - 🔭 Hoje estudo Analise e desenvolvimento de sistemas 
-- 🌱 Estudando: Java, Banco de dados SQL&NoSql, Spring Boot, JPA/HIBERNATE, API RestFull
+- 🌱 Estudando: Java, Banco de dados realacional, Spring Web (API RESTFull), Spring Security, JWT, Spring Boot, Spring Data Jpa.
 - 😄 Pronomes: ele/dele
 - 🧐 Curiosidades: Monitor da cadeira Algoritmo/POO na faculdade Alpha
 - ⚽ Esportes: Amo praticar FutVolei & jogar Fut7
