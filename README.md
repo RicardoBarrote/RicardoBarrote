@@ -1,22 +1,37 @@
 ### Oii! Seja bem-vindo ao meu perfil, chamo-me Ricardo Barrote
 
-- 🔭 Hoje estudo Analise e desenvolvimento de sistemas
+- Stack atual:
+
+  Arquitetura:
+  - Microsservices
+  - Monolito modular
+  - clean architecture
+  - Hexagonal
+ 
   
-- 🛠 Stack:
-  
-Backend: Java, Spring Boot, Spring Web, Spring Data JPA, Spring Security, JWT, Hibernate, MapStruct
+  Frameworks:
+  - Spring Web
+  - Spring Data Jpa
+  - Spring Data MongoDb
+  - Spring Security
+  - Spring AMQP
+  - Spring Cloud
 
-Banco: PostgreSQL, MySQL, Redis(Cache), H2
+  Testes:
+  - JUnit
+  - Mockito
 
-Front-end: Html, css, JavaScript
+  Banco de dados:
+  - PostgreSql
+  - MySql
+  - MongoDB
+  - Redis
 
-Infra: Maven, Docker, Flyway, Git e GitHub, Postman
+  Cloud & Devops:
+  - Docker
+  - Digital Ocean
+  - GitHub Actions
 
-Testes: JUnit 5, Mockito 3
-
-- 😄 Pronomes: ele/dele
-- 🧐 Curiosidades: Fui monitor de Algoritmo e Programação orietada a objetos na faculdade Alpha
-- ⚽ Esportes: Amo praticar FutVolei & jogar Fut7
 
   ##
 
